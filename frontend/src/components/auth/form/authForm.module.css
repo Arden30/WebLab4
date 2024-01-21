@@ -1,0 +1,50 @@
+.info {
+    font-family: inherit;
+    text-align: center;
+    font-size: 35px;
+    color: rebeccapurple;
+}
+
+.login, .password {
+    font-family: inherit;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto auto;
+    text-align: center;
+    border: 1px solid #141414;
+    border-radius: 10px;
+    width: 420px;
+}
+
+.login {
+    margin-top: 2%;
+}
+
+.password {
+    margin-top: 1%;
+}
+
+.MyButtons button {
+    color: white;
+    border-radius: 6px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    display: flex;
+    background-color: black;
+    border: 2px solid black;
+    font-size: 25px;
+}
+
+.MyButtons button:hover {
+    color:greenyellow;
+}
+
+.MyButtons {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    margin-top: 1%;
+    justify-content: center;
+}

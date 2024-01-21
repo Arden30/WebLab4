@@ -1,0 +1,7 @@
+.graph {
+    width: 450px;
+    height: 450px;
+    border: thick double #32a1ce;
+    border-radius: 15px;
+    cursor: pointer;
+}

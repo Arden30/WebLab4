@@ -1,0 +1,15 @@
+.form-button {
+    color: white;
+    border-radius: 6px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background-color: lightseagreen;
+    border: 2px solid black;
+    font-size: 25px;
+    width: 90%;
+}
+
+.form-button:hover, .form-button_active {
+    background-color: yellow;
+    color: black;
+}

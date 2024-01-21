@@ -1,0 +1,19 @@
+@media (min-width: 821px) {
+    .header {
+        font-family: inherit;
+        font-size: 30px;
+        color: rebeccapurple;
+        text-align: center;
+        margin: 10% auto auto;
+    }
+}
+
+@media (max-width: 820px) {
+    .header {
+        font-family: inherit;
+        font-size: 30px;
+        color: rebeccapurple;
+        text-align: center;
+        margin: 30% auto auto;
+    }
+}
